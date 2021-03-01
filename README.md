@@ -23,7 +23,5 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 - How to use Dart lists.
 - The difference between var, const and final.
 
-## Code Snippet for Project
-
 
 
