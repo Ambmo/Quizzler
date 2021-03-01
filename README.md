@@ -25,6 +25,5 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 
 ## Code Snippet for Project
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 
